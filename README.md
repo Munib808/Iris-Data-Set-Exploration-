@@ -1,10 +1,21 @@
-# Iris-Data-Set-Exploration-
-This project performs exploratory data analysis (EDA) on the Iris dataset to uncover patterns and relationships between the features of three iris flower species. It includes data cleaning, statistical summaries, and various visualizations like histograms, boxplots, and pairplots.
+# Iris Dataset Exploration and Classification
 
-# Iris Data Set Exploration
+## Description
 
-This repository contains an exploratory data analysis (EDA) project on the classic Iris data set. The analysis includes descriptive statistics, visualizations, and insights aimed at understanding the relationships among different features of the iris flowers.
+This project focuses on the **exploration and classification** of the well-known Iris dataset. It includes detailed visualizations and statistical summaries to understand the structure of the data. In addition, a machine learning model is built to classify iris species based on four input features.
 
+The project also includes a simple **web-based application** that runs locally on your computer. This application allows users to enter iris measurements and predict the flower class in real time using the trained model.
+
+---
+
+## Key Features
+
+- Exploratory Data Analysis (EDA) using plots such as histograms, boxplots, and pairplots.
+- Descriptive statistics to summarize feature distributions.
+- Training and evaluation of a classification model (e.g., Logistic Regression).
+- A local web application for interactive prediction of flower species.
+
+---
 ## Project Overview
 
 The Iris data set is one of the most well-known datasets in data science and machine learning. It includes 150 samples from three species of Iris (setosa, versicolor, and virginica), with four features recorded for each sample:
