@@ -42,7 +42,7 @@ This project performs the following tasks:
 
 ## Technologies Used
 
-- Python 3.x
+- Python
 - pandas
 - numpy
 - matplotlib
