@@ -32,10 +32,4 @@ This project performs the following tasks:
 - numpy
 - matplotlib
 - seaborn
-- scikit-learn (if applicable)
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/iris-data-exploration.git
+- scikit-learn (To predict Class)
