@@ -37,7 +37,8 @@ This project performs the following tasks:
 - `iris_scaler_voting_clf.pkl`: Pickle File Containing Model to Scale the Data before passing it to Actual Model
 - `iris_voting_clf.pkl`: Actual Model
 - `README.md`: Description of the project and usage instructions
-- `Iris.csv`: CVS File Contining data 
+- `Iris.csv`: CVS File Contining data
+- `app.py`: File containing streamlit code of Deployment
 
 ## Technologies Used
 
