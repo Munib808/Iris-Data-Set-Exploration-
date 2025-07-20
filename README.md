@@ -12,7 +12,7 @@ The project also includes a simple **web-based application** that runs locally o
 
 - Exploratory Data Analysis (EDA) using plots such as histograms, boxplots, and pairplots.
 - Descriptive statistics to summarize feature distributions.
-- Training and evaluation of a classification model (e.g., Logistic Regression).
+- Training and evaluation of a classification model (e.g., Logistic Regression,VotingClassifier,StackingClassifier,KNeighborsClassifier,Decision Tree Classifier the final Model is the Votting Classifier with base learners Support Vector Machine,Logistic Regression and Decision Tree Classifier).
 - A local web application for interactive prediction of flower species.
 
 ---
@@ -34,7 +34,10 @@ This project performs the following tasks:
 ## Contents
 
 - `Iris Data Set Exploration.ipynb`: Jupyter notebook with complete code and output
+- `iris_scaler_voting_clf.pkl`: Pickle File Containing Model to Scale the Data before passing it to Actual Model
+- `iris_voting_clf.pkl`: Actual Model
 - `README.md`: Description of the project and usage instructions
+- `Iris.csv`: CVS File Contining data 
 
 ## Technologies Used
 
